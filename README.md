@@ -1,0 +1,3 @@
+# CodingExercises
+
+Random coding exercises
